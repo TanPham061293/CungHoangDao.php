@@ -1,0 +1,28 @@
+@CHARSET "ISO-8859-1";
+
+*{
+	margin: opx;
+	padding: 0px;
+}
+.content{
+	margin: 20px auto;
+	width: 600px;
+	border: #999 solid 5px;
+	padding:10px;
+	text-align: center;
+}
+.content h1{
+	color: red;
+}
+.content div.row{
+	margin-top: 20px;
+}
+.content div.row span{
+	color:blue;
+}
+.content div.row input[type = text]{
+	display: inline-block;
+}
+.content div.row img{
+	width: auto;
+}
